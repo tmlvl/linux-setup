@@ -1,6 +1,6 @@
 #Base Linux Setup Env
 
-## Состав
+## Structure
 
 - "install.sh" - simple setup bash-script
 - "dotfiles/"  - config files
