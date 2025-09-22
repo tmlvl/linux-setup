@@ -9,6 +9,5 @@ sudo apt install -y vim unzip net-tools wget curl git xclip
 echo "start setup..."
 #git clone https://github.com/tmlvl/linux-setup.git ~/linux-setup
 bash ~/linux-setup/dotfiles/setup.sh
-. ~/.bashrc
 
 echo "complete."
