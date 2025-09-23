@@ -10,4 +10,8 @@ echo "start setup..."
 #git clone https://github.com/tmlvl/linux-setup.git ~/linux-setup
 bash ~/linux-setup/dotfiles/setup.sh
 
+if [-f ~/.bashrc]; then
+  . ~/.bashrc
+fi
+
 echo "complete."
