@@ -10,4 +10,4 @@
 ```bash
 git clone https://github.com/tmlvl/linux-setup.git
 cd linux-setup
-bash install.sh
+source install.sh
