@@ -20,8 +20,4 @@ alias su-='su -'
 # Vi/Vim editor.
 alias vi='vim'
 
-# xclip alias copy/past
-alias xclip-c='xclip -selection clipboard'
-alias xclip-p='xclip -selection clipboard -o'
-
 export EDITOR=vim
