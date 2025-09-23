@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 alias du='du -h'
 alias df='df -h -x supermount'
