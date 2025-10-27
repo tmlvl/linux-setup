@@ -20,4 +20,7 @@ alias su-='su -'
 # Vi/Vim editor.
 alias vi='vim'
 
+setkeycodes 0x3a 0x1d
+setkeycodes 0xba 0x9d
+
 export EDITOR=vim
