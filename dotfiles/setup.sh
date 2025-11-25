@@ -2,7 +2,7 @@
 
 echo "Set symlinks..."
 
-ln -sf $(pwd)/linux-setup/dotfiles/.bashrc ~/.bashrc
-ln -sf $(pwd)/linux-setup/dotfiles/.vimrc ~/.vimrc
+ln -sf $(pwd)/dotfiles/.bashrc ~/.bashrc
+ln -sf $(pwd)/dotfiles/.vimrc ~/.vimrc
 
 echo "Complete."
