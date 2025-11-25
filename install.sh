@@ -4,7 +4,7 @@ echo "Updating..."
 apt-get update
 
 echo "Base apps installing"
-apt install -y tree openssh-server vim unzip net-tools wget curl git tmux
+apt install -y tree openssh-server vim unzip net-tools wget curl git tmux less
 
 echo "start setup..."
 #git clone https://github.com/tmlvl/linux-setup.git ~/linux-setup
