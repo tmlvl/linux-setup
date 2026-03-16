@@ -14,4 +14,4 @@ if [ -f ~/.bashrc ]; then
   . ~/.bashrc
 fi
 
-echo "Complete install.sh."
+echo "Complete install.sh"
